@@ -24,8 +24,8 @@ In accordance with course guidelines, each entry synthesizes:
 
 | File | Lecture Topic | Date | Status |
 | :--- | :--- | :---: | :---: |
-| [Lecture1.md](./Lecture1.md) | Introduction to Graphics Pipelines | -- | Complete |
-| [Lecture2.md](./Lecture2.md) | Transformations & Vectors | -- | Complete |
+| [Lecture1.md](./Lecture1.md) | Introduction to Graphics Pipelines | 4 August 2026 | Complete |
+| [Lecture2.md](./Lecture2.md) | Transformations & Vectors | 6 August 2026 | Complete |
 | [Lecture3.md](./Lecture3.md) | TBD | -- | In Progress |
 
 ---
