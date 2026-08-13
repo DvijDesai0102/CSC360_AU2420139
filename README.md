@@ -24,8 +24,13 @@ In accordance with course guidelines, each entry synthesizes:
 
 | File | Lecture Topic | Date | Status |
 | :--- | :--- | :---: | :---: |
-| [Lecture1.md](./Lecture1.md) | Introduction to Graphics Pipelines | 4 August 2026 | Complete |
-| [Lecture2.md](./Lecture2.md) | Transformations & Vectors | 6 August 2026 | Complete |
-| [Lecture3.md](./Lecture3.md) | TBD | -- | In Progress |
+| [Lecture1.md](./Reflection%20Journal/Lecture1.md) | Introduction to Graphics Pipelines | 4 August 2026 | Complete |
+| [Lecture2.md](./Reflection%20Journal/Lecture2.md) | Transformations & Vectors | 6 August 2026 | Complete |
+| [Lecture3.md](./Reflection%20Journal/Lecture3.md) | TBD | -- | In Progress |
 
 ---
+
+## Repository Structure
+
+* **`Reflection Journal/`**: Contains markdown reflection logs and summaries for each lecture.
+* **`Sample Code/`**: Contains Java implementations, experiments, and graphics code (e.g. `Main.java`, `SimpleGraphics.java`).
