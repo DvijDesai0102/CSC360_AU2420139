@@ -27,6 +27,7 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture1.md](./Reflection%20Journal/Lecture1.md) | Introduction to Graphics Pipelines | 4 August 2026 | Complete |
 | [Lecture2.md](./Reflection%20Journal/Lecture2.md) | Transformations & Vectors | 6 August 2026 | Complete |
 | [Lecture3.md](./Reflection%20Journal/Lecture3.md) | Dev Environment, Build Tools & Java 2D Graphics | 13 August 2026 | Complete |
+| [Lecture4.md](./Reflection%20Journal/Lecture4.md) | Canvas Coordinate Geometry, Centered Shape Mathematics, and Repository Configuration | 18 August 2026 | Complete |
 
 ---
 
